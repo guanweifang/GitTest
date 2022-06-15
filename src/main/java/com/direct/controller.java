@@ -10,6 +10,8 @@ public class controller {
         System.out.println("git6===========");
         System.out.println("远程修改1=======================");
         System.out.println("远程修改2=======================");
-        
+
+        System.out.println("controller1修改=======================");
+        System.out.println("controller1修改=======================");
     }
 }
